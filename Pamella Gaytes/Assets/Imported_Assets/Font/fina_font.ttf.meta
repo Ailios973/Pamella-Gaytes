@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7e72944f2a8515468e5a4d672697290
+timeCreated: 1488503060
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fina
+  fontNames:
+  - Fina
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

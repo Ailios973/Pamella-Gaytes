@@ -1,0 +1,50 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4352
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.143 seconds
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\adrij\Documents\GitHub\Pamella-Gaytes\Pamella Gaytes\Pamella_Gaytes_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'PortalCore') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 3.835657 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 314c -> priority: 1 
+  Thread -> id: 2834 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.740842 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 1438.
+Total: 6.297683 ms (FindLiveObjects: 0.184889 ms CreateObjectMapping: 0.152098 ms MarkObjects: 0.629728 ms  DeleteObjects: 5.326621 ms)
+
+The referenced script on this Behaviour (Game Object 'PortalCore') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.076054 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 514.
+Total: 2.045631 ms (FindLiveObjects: 0.084148 ms CreateObjectMapping: 0.060839 ms MarkObjects: 0.686617 ms  DeleteObjects: 1.210075 ms)
+

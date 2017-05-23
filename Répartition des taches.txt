@@ -1,8 +1,0 @@
-
-TACHES MAJEURS
--Level Design UNITY/BLENDER Pedro - Robin
--Création Des Assets BLENDER FL STUDIO : Sébastien GUERET - Adrien JOSSE
--Programmation UNITY C# : Adrien TARCY
--Réseau UNITY : Mikael VAZ MARTINS
--Site Internet TRUC : Mikael VAZ MARTINS
--Montage : Sébastien GUERET 
